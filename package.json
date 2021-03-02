@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/lucaskbr/fp-hexagonal-architecture/issues"
   },
-  "homepage": "https://github.com/lucaskbr/fp-hexagonal-architecture#readme"
+  "homepage": "https://github.com/lucaskbr/fp-hexagonal-architecture#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.0.0"
+  }
 }
